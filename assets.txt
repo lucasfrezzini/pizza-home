@@ -1,0 +1,13 @@
+Lobster (Titulos)
+https://fonts.google.com/specimen/Lobster?query=lob&preview.text=Prosciutto%20%20Tradizionale&preview.text_type=custom
+
+Lato(Cuerpo y Menu)
+https://fonts.google.com/specimen/Lato?query=lato&preview.text=Prosciutto%20%20Tradizionale&preview.text_type=custom
+
+Colores
+
+Azul oscuro: #242833
+Azul claro: #343b4d
+Gris:#616872
+Blanco: #fff
+Rojo:#f34747
